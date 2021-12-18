@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1096752485636",
+    "project_id": "kasuwaniger-f1c53",
+    "storage_bucket": "kasuwaniger-f1c53.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1096752485636:android:f97e87864190137d2d6c51",
+        "android_client_info": {
+          "package_name": "nuohost.kasuwaniger.com"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1096752485636-m8a062hdhbq608qvam53opl7t3um262g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "nuohost.kasuwaniger.com",
+            "certificate_hash": "27aa0fe85a2ec8a8981747f7aa9eceb96487a880"
+          }
+        },
+        {
+          "client_id": "1096752485636-qoroodvv6o0rok2ghmo915gsr5sua5fe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFUU5aD2yEavemY9LAL_r3B2UjJHcu9EA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1096752485636-qoroodvv6o0rok2ghmo915gsr5sua5fe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>1096752485636-chhcml9qoc4tieijd6km15r135c64jt7.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.1096752485636-chhcml9qoc4tieijd6km15r135c64jt7</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>1096752485636-m8a062hdhbq608qvam53opl7t3um262g.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDHCbyUxZ7-jjQ_XNEp4VbmJzSmjmFVvfU</string>
+	<key>GCM_SENDER_ID</key>
+	<string>1096752485636</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>nuohost.kasuwaniger.com</string>
+	<key>PROJECT_ID</key>
+	<string>kasuwaniger-f1c53</string>
+	<key>STORAGE_BUCKET</key>
+	<string>kasuwaniger-f1c53.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:1096752485636:ios:909720acbe24d1122d6c51</string>
+</dict>
+</plist>
